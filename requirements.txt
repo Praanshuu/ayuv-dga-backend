@@ -8,3 +8,5 @@ PyEMD==1.5.1
 vmdpy==0.1
 scipy==1.13.1
 gunicorn==22.0.0
+EMD-signal
+EMD-signal==1.5.1
